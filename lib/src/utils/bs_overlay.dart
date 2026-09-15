@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Class to handle all overlay of [BsSelectBox]
 class SelectBoxOverlay {

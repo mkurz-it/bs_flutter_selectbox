@@ -1,4 +1,4 @@
-import 'package:flutter/cupertino.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Class list options of  [BsSelectBox]
 class BsSelectBoxOption {

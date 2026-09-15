@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:bs_flutter_selectbox/bs_flutter_selectbox.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Wrapper overlay of options
 class BsWrapperOptions extends StatefulWidget {
