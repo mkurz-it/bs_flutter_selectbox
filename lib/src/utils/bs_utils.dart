@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// This file is copied from bs_flutter_utils package of the same author as bs_flutter_selectbox package
 

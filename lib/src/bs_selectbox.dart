@@ -1,7 +1,7 @@
 import 'package:bs_flutter_selectbox/bs_flutter_selectbox.dart';
 import 'package:bs_flutter_selectbox/src/components/bs_wrapper_option.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:material_ui/material_ui.dart';
 import 'utils/bs_utils.dart';
 
 export 'customize/bs_selectbox_size.dart';
